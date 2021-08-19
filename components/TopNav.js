@@ -20,13 +20,13 @@ const TopNav = () => {
 
 			<Item icon={<UserAddOutlined />}>
 				<Link href="/register">
-					<a>Home Register</a>
+					<a>Register</a>
 				</Link>
 			</Item>
 
 			<Item icon={<LoginOutlined />}>
 				<Link href="/login">
-					<a>Home Login</a>
+					<a>Login</a>
 				</Link>
 			</Item>
 		</Menu>
